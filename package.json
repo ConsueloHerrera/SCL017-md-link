@@ -1,4 +1,8 @@
 {
-  "name": "md-links",
-  "version": "0.1.0"
+    "name": "md-links",
+    "version": "0.1.0",
+    "dependencies": {
+        "fetch": "^1.1.0",
+        "markdown-link-extractor": "^1.3.0"
+    }
 }
